@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" />
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="/css/shared.css" />
+    <meta name="globalsign-domain-verification" content="1dcSbkhAZjB3mF3CO4wCpOI6SLEcaWs2n3ytVmc4XL" />
   </head>
   <body>
     <div class="banner">&nbsp;</div>
