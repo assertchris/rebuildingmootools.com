@@ -38,8 +38,9 @@
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-51138736-1', 'rebuildinglaravel.com');
+      ga('create', 'UA-52624146-1', 'auto');
       ga('send', 'pageview');
+
     </script>
     @endif
     <script type="text/javascript" src="//use.typekit.net/ldf0izr.js"></script>
