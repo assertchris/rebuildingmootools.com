@@ -1,3 +1,3 @@
-# Rebuilding Laravel
+# Rebuilding MooTools
 
-This is a website wrapper for the Rebuilding Laravel books.
+This is a website wrapper for the Rebuilding MooTools books.
