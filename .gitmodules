@@ -1,0 +1,3 @@
+[submodule "translations/en"]
+	path = translations/en
+	url = git@github.com:formativ/rebuildingmootools.git
