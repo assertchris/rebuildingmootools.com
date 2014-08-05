@@ -14,7 +14,7 @@ function read($translation, $path)
 
 function parse($markdown)
 {
-  $markdown = str_replace("{lang=php}", "", $markdown);
+  $markdown = str_replace("{lang=js}", "", $markdown);
   $markdown = str_replace("A>", ">", $markdown);
 
   return Markdown::string($markdown);
