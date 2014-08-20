@@ -41,7 +41,8 @@ $routes = [
   "/part-1-coffeescript" => "01-coffeescript.md",
   "/part-2-grunt"        => "02-grunt.md",
   "/part-3-buster"       => "03-buster.md",
-  "/part-4-typeof"       => "04-typeof.md"
+  "/part-4-typeof"       => "04-typeof.md",
+  "/part-5-classes"       => "05-classes.md"
 ];
 
 Route::get("/", function () use ($routes) {
